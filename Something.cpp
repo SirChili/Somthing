@@ -1,3 +1,5 @@
+//This has nothing to do with the Animal and source files
+
 #include <iostream> //standard input and output stream
 #include <iomanip> 
 using namespace std;
@@ -50,4 +52,5 @@ int main() {
 
 	return 0;
 }
+
 
